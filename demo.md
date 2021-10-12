@@ -2,7 +2,7 @@ First line used for the pull request test.
 
 second line!!!
 
-third line, from the master.
+third line.
 
 add a fourth line.This is it.
 
